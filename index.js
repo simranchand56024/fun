@@ -1,5 +1,5 @@
 const data = [
-    { name: "LUVKUMAR GUPTA", photo: "image.jpg" },
+    { name: "PRATYUSH SRIVASTAVA", photo: "image.jpg" },
     { name: "Name 2", photo: "photo2.jpg" },
     { name: "Name 3", photo: "photo3.jpg" },
     // Add more names and photos
@@ -29,7 +29,7 @@ function showNextPerson() {
 
 function handleYesClick() {
     // showNextPerson();
-    responseElement.textContent = "Thank You... apke upar simran ji k ashirwad rhega hmesa 😌";
+    responseElement.textContent = "Thank You ❤️";
     yesButton.disabled = true;
     noButton.disabled = true;
 }
